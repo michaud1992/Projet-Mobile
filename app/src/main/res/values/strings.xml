@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seconde">SecondeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_text">Click</string>
+    <string name="button_3">Close</string>
+    <string name="button_2">Loading...</string>
+    <string name="notification_button">Notification</string>
+    <string name="alerte_button">Warning</string>
+    <string name="blague">You have a bug!</string>
+    <string name="toast_me">About</string>
+    <string name="bier_button">All the beers have been update!</string>
+</resources>

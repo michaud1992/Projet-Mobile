@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="action_settings">Réglages</string>
+    <string name="button_text">Se connecter</string>
+    <string name="app_name">Mon application</string>
+    <string name="button_2">En connexion...</string>
+    <string name="button_3">Fermer</string>
+    <string name="notification_button">Notification</string>
+    <string name="alerte_button">Alerte</string>
+    <string name="blague">Vous avez un virus!</string>
+    <string name="toast_me">À propos</string>
+    <string name="toast_me1">Salut!!</string>
+    <string name="bier_button">Toutes les bières sont à jour!</string>
+    <string name="title_activity_seconde">Deuxième Page</string>
+
+</resources>
